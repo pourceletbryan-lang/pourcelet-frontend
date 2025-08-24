@@ -1,0 +1,12 @@
+{
+  "name": "pourcelet-frontend",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "axios": "^1.4.0",
+    "web3modal": "^2.0.0",
+    "ethers": "^6.0.0"
+  }
+}
